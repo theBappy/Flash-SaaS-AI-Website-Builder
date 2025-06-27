@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["autoincrement", "sonner", "turbopack"],
+  "cSpell.words": ["autoincrement", "inngest", "sonner", "turbopack"],
   "typescript.tsdk": "node_modules/typescript/lib",
   "typescript.enablePromptUseWorkspaceTsdk": true
 }
