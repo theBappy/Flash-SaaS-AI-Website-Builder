@@ -1,6 +1,11 @@
+
+
+
 const Page = () => {
   return (
-    <div className="font-bold text-rose-500 underline">Main Page</div>
+    <div>
+      Main Page
+    </div>
   )
 }
 
